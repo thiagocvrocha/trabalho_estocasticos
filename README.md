@@ -1,0 +1,1 @@
+Para que o código possa acessar o arquivo data_5599.csv através do Google Colab, é necessário descompactar o arquivo zipado e fazer o upload do mesmo em uma pasta com o nome "Colab_Datasets" no diretório raiz do Google Drive. Durante a primeira execução, será necessário aceitar todas as permissões solicitadas pelo Colab para ter acesso ao Google Drive. 
